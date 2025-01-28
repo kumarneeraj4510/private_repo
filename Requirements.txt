@@ -1,0 +1,5 @@
+# install below packages
+
+pip install requests
+pip install pprint
+pip install pandas
